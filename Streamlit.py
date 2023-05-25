@@ -1,7 +1,7 @@
 #streamlit/secrets.toml
 
 
-[connections.snowpark]
+#[connections.snowpark]
 account = "hs58126.central-india.azure"
 user = "NishaantSoni"
 password = "Htek@#1010"
