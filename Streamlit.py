@@ -1,7 +1,9 @@
 import streamlit as st
 import pandas as pd 
-import snowflake
+import requests
+import snowflake 
 import snowflake.connector
+from urllib.error import URLError
 from functools import wraps
 import matplotlib.pyplot as plt
 import plotly.express as px
