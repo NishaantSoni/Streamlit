@@ -2,6 +2,6 @@ altair
 pandas
 streamlit
 snowflake
-charset-normalizer==2.0.12
+charset-normalizer==2.1.1
 
 snowflake-connector-python==3.0.3
